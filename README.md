@@ -8,7 +8,11 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=booksummaria&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=booksummaria&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=booksummaria&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=booksummaria&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=booksummaria&theme=dark&show_icons=true&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=booksummaria&layout=compact&theme=dark&hide=html,css)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=booksummaria&icon=0&color=0)](https://visitcount.itsvg.in)
